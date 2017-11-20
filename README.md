@@ -16,4 +16,4 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |67|[ Add Binary ](https://leetcode.com/problems/add-binary/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/067_AddBinary/Solution.java) |Easy|2017/11/19|
 |69|[ Sqrt(x) ](https://leetcode.com/problems/sqrtx/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/069_Sqrt(x)/Solution.java) |Easy|2017/11/19|
 |70|[ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/070_Climbing%20Stairs/Solution.java) |Easy|2017/11/20|
-|83|[ Remove Duplicates from Sorted List ](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/070_Climbing%20Stairs/Solution.java) |Easy|2017/11/20|
+|83|[ Remove Duplicates from Sorted List ](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/083._Remove%20Duplicates%20from%20Sorted%20List/Solution.java) |Easy|2017/11/20|
