@@ -23,11 +23,4 @@ public class Solution {
 		else
 			return true;
 	}
-	public static void main(String[]args){
-		TreeNode t=new TreeNode(0);
-		t.left=new TreeNode(1);
-		TreeNode t2=new TreeNode(0);
-		t2.left=new TreeNode(1);
-		System.out.println(new Solution().isSameTree(t, t2));
-	}
 }
