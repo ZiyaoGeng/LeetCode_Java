@@ -11,7 +11,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |:---:|:---:|:---:|:---:|:---:|
 |1|[ Two Sum ](https://leetcode.com/problems/two-sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/001_Two%20Sum/Solution.java)|Easy|2017/11/22|
 |15|[ 3 Sum ](https://leetcode.com/problems/3sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/015_3%20Sum/Solution.java)|Medium|2017/11/23|
-|16|[ 3 Sum Closest ](https://leetcode.com/problems/3sum-closest/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/015_3%20Sum/Solution.java)|Medium|2017/11/23|
+|16|[ 3 Sum Closest ](https://leetcode.com/problems/3sum-closest/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/016_3%20Sum%20Closest/Solution.java)|Medium|2017/11/23|
 |18|[ 4 Sum ](https://leetcode.com/problems/4sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/018_4%20Sum/Solution.java)|Medium|2017/11/23|
 ||||
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
