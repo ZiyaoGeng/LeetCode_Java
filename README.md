@@ -9,8 +9,8 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 
 | # | Title | Source Code |  Difficulty | Time |
 |:---:|:---:|:---:|:---:|:---:|
-|1|[ Two Sum ](https://leetcode.com/problems/two-sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/001_Two%20Sum/Solution.java)] |Easy|2017/11/22|
-|15|[ Three Sum ](https://leetcode.com/problems/3sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/001_Two%20Sum/Solution.java)] |Easy|2017/11/23|
+|1|[ Two Sum ](https://leetcode.com/problems/two-sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/001_Two%20Sum/Solution.java)|Easy|2017/11/22|
+|15|[ Three Sum ](https://leetcode.com/problems/3sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/015_3%20Sum/Solution.java)|Easy|2017/11/23|
 ||||
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
