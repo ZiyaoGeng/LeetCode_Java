@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2017-12-7 21:42
+Update time:  2017-12-10 21:33
 
 I'm a college student
 
@@ -20,7 +20,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |3|[  Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/003_Longest%20Substring%20Without%20Repeating%20Characters/Solution.java)|Medium|2017/11/27|
 |4|[  Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/004_Median%20of%20Two%20Sorted%20Arrays/Solution.java)|Hard|2017/12/4|
 |5|[ Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/005_Longest%20Palindromic%20Substring/Solution.java)|Medium|2017/12/7|
-|6|[  ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/005_Longest%20Palindromic%20Substring/Solution.java)|Medium|2017/12/10|
+|6|[  ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/006_ZigZag%20Conversion/Solution.java)|Medium|2017/12/10|
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
 |66|[ Plus One ](https://leetcode.com/problems/plus-one/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/066_Plus%20One/Solution.java) |Easy|2017/11/19|
