@@ -1,5 +1,5 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2017-12-11 22:38
+Update time:  2017-12-12 21:58
 
 I'm a college student
 
@@ -21,8 +21,9 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |4|[  Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/004_Median%20of%20Two%20Sorted%20Arrays/Solution.java)|Hard|2017/12/4|
 |5|[ Longest Palindromic Substring ](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/005_Longest%20Palindromic%20Substring/Solution.java)|Medium|2017/12/7|
 |6|[  ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/006_ZigZag%20Conversion/Solution.java)|Medium|2017/12/10|
+||||
 |7|[  Reverse Integer ](https://leetcode.com/problems/reverse-integer/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/007_Reverse%20Integer/Solution.java)|Easy|2017/12/10|
-|9|[  Palindrome Number ](https://leetcode.com/problems/palindrome-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/007_Reverse%20Integer/Solution.java)|Easy|2017/12/12|
+|9|[  Palindrome Number ](https://leetcode.com/problems/palindrome-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/009_Palindrome%20Number/Solution.java)|Easy|2017/12/12|
 ||||
 |8|[  String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/008_String%20to%20Integer%20(atoi)/Solution.java)|Medium|2017/12/11|
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
