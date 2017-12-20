@@ -18,7 +18,7 @@ public class Solution {
     		heads=heads.next;
     		return reverse(heads);
     	}
-    	while(heads!=null&&j<n-1){//ÕÒÇ°Çý
+    	while(heads!=null&&j<n-1){
     		heads=heads.next;
     		j++;
     	}
