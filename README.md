@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2017-12-21 22:34
+Update time:  2017-12-23 22:12
 
 I'm a college student
 
-I have solved **39   /   645** problems now
+I have solved **40   /   645** problems now
 
 If you have the better Solutions for the problems,Please tell me or fork my project,Thank you!
 
@@ -34,10 +34,8 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 ||||
 |14|[   Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/014_Longest%20Common%20Prefix/Solution.java)|Easy|2017/12/19|
 ||||
-|17|[   Letter Combinations of a Phone Number ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/017_Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)
-|Medium|2017/12/20|
-|22|[   Generate Parentheses ](https://leetcode.com/problems/generate-parentheses/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/017_Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)
-|Medium|2017/12/23|
+|17|[   Letter Combinations of a Phone Number ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/017_Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)|Medium|2017/12/20|
+|22|[   Generate Parentheses ](https://leetcode.com/problems/generate-parentheses/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/022_Generate%20Parentheses/Solution.java)|Medium|2017/12/23|
 ||||
 |19|[   Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/019_Remove%20Nth%20Node%20From%20End%20of%20List/Solution.java)|Medium|2017/12/20|
 |20|[   Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/020_Valid%20Parentheses/Solution.java)|Easy|2017/12/21|
