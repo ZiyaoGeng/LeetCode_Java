@@ -33,7 +33,12 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |13|[  Roman to Integer ](https://leetcode.com/problems/roman-to-integer/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/013_Roman%20to%20Integer/Solution.java)|Easy|2017/12/19|
 ||||
 |14|[   Longest Common Prefix ](https://leetcode.com/problems/longest-common-prefix/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/014_Longest%20Common%20Prefix/Solution.java)|Easy|2017/12/19|
-|17|[   Letter Combinations of a Phone Number ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/017_Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)|Medium|2017/12/20|
+||||
+|17|[   Letter Combinations of a Phone Number ](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/017_Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)
+|Medium|2017/12/20|
+|22|[   Generate Parentheses ](https://leetcode.com/problems/generate-parentheses/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/017_Letter%20Combinations%20of%20a%20Phone%20Number/Solution.java)
+|Medium|2017/12/23|
+||||
 |19|[   Remove Nth Node From End of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/019_Remove%20Nth%20Node%20From%20End%20of%20List/Solution.java)|Medium|2017/12/20|
 |20|[   Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/020_Valid%20Parentheses/Solution.java)|Easy|2017/12/21|
 |21|[   Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/021_Merge%20Two%20Sorted%20Lists/Solution.java)|Easy|2017/12/21|
