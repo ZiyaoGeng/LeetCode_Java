@@ -13,8 +13,4 @@ public class Solution {
         }
         return counter;
     }
-    public static void main(String[]args){
-        int[] nums={1,1,2,2,3,4};
-        new Solution().removeDuplicates(nums);
-    }
 }
