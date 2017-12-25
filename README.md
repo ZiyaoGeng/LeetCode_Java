@@ -44,6 +44,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |23|[   Merge k Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/023_Merge%20k%20Sorted%20Lists/Solution.java)|Hard|2017/12/24|
 ||||
 |24|[   Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/024_Swap%20Nodes%20in%20Pairs/Solution.java)|Medium|2017/12/24|
+|25|[    Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/024_Swap%20Nodes%20in%20Pairs/Solution.java)|Medium|2017/12/25|
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
 |66|[ Plus One ](https://leetcode.com/problems/plus-one/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/066_Plus%20One/Solution.java) |Easy|2017/11/19|
