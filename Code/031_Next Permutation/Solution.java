@@ -1,4 +1,8 @@
-
+/*
+全排列，查找下一个排列的组合
+使用了字典序法
+可以理解为去查找一个比当前数(数组中每个数字组合起来的数)大且最接近的数
+ */
 public class Solution {
     public void nextPermutation(int[] nums) {
         for(int i=nums.length-2;i>=0;i--){
