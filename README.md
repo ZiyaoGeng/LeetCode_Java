@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2017-12-30 11:16
+Update time:  2017-12-31 15:42
 
 I'm a college student
 
-I have solved **43   /   645** problems now
+I have solved **44   /   645** problems now
 
 If you have the better Solutions for the problems,Please tell me or fork my project,Thank you!
 
@@ -52,6 +52,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |29|[  Implement strStr() ](https://leetcode.com/problems/divide-two-integers/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/029_Divide%20Two%20Integers/Solution.java)|Medium|2017/12/27|
 |30|[  Substring with Concatenation of All Words ](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/030_Substring%20with%20Concatenation%20of%20All%20Words/Solution.java)|Hard|2017/12/30|
 |31|[  Next Permutation ](https://leetcode.com/problems/next-permutation/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/031_Next%20Permutation/Solution.java)|Medium|2017/12/30|
+|32|[  Longest Valid Parentheses ](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/032_Longest%20Valid%20Parentheses/Solution.java)|Hard|2017/12/31|
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
 |66|[ Plus One ](https://leetcode.com/problems/plus-one/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/066_Plus%20One/Solution.java) |Easy|2017/11/19|
