@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-1-1 22:16
+Update time:  2018-1-2 10:54
 
 I'm a college student
 
-I have solved **45   /   645** problems now
+I have solved **48   /   645** problems now
 
 If you have the better Solutions for the problems,Please tell me or fork my project,Thank you!
 
@@ -57,7 +57,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |33|[  Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/033_Search%20in%20Rotated%20Sorted%20Array/Solution.java)|Medium|2017/12/31|
 |81|[  Search in Rotated Sorted Array II ](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/081_Search%20in%20Rotated%20Sorted%20Array%20II/Solution.java)|Medium|2018/1/1|
 ||||
-|34|[  Search for a Range ](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/033_Search%20in%20Rotated%20Sorted%20Array/Solution.java)|Medium|2018/1/2|
+|34|[  Search for a Range ](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/034_Search%20for%20a%20Range/Solution.java)|Medium|2018/1/2|
 
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
