@@ -59,7 +59,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 ||||
 |34|[  Search for a Range ](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/034_Search%20for%20a%20Range/Solution.java)|Medium|2018/1/2|
 |35|[  Search Insert Position ](https://leetcode.com/problems/search-insert-position/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/035_Search%20Insert%20Position/Solution.java)|Easy|2018/1/2|
-|36|[  Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/035_Search%20Insert%20Position/Solution.java)|Medium|2018/1/3|
+|36|[  Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/036_Valid%20Sudoku/Solution.java)|Medium|2018/1/3|
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
 |66|[ Plus One ](https://leetcode.com/problems/plus-one/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/066_Plus%20One/Solution.java) |Easy|2017/11/19|
