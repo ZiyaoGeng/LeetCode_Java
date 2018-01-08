@@ -62,6 +62,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |36|[  Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/036_Valid%20Sudoku/Solution.java)|Medium|2018/1/3|
 |38|[  Count and Say ](https://leetcode.com/problems/count-and-say/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/038_Count%20and%20Say/Solution.java)|Easy|2018/1/4|
 |39|[  Combination Sum ](https://leetcode.com/problems/combination-sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/039_Combination%20Sum/Solution.java)|Medium|2018/1/5|
+|40|[  Combination Sum II ](https://leetcode.com/problems/combination-sum-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/039_Combination%20Sum/Solution.java)|Medium|2018/1/8|
 |50|[ Pow(x, n) ](https://leetcode.com/problems/powx-n/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/050_Pow(x%2C%20n)/Solution.java) |Easy|2018/1/6|
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
