@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-1-21 19:58
+Update time:  2018-2-6 16:41
 
 I'm a college student
 
-I have solved **53   /   645** problems now
+I have solved **54   /   645** problems now
 
 If you have the better Solutions for the problems,Please tell me or fork my project,Thank you!
 
@@ -68,6 +68,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |43|[  Multiply Strings ](https://leetcode.com/problems/multiply-strings/discuss/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/043_Multiply%20Strings/Solution.java)|Medium|2018/1/21|
 |415|[  Add Strings ](https://leetcode.com/problems/add-strings/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/415_Add%20Strings/Solution.java)|Easy|2018/1/21|
 ||||
+|46|[ Permutations ](https://leetcode.com/problems/permutations/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/050_Pow(x%2C%20n)/Solution.java) |Medium|2018/2/6|
 |50|[ Pow(x, n) ](https://leetcode.com/problems/powx-n/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/050_Pow(x%2C%20n)/Solution.java) |Easy|2018/1/6|
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/051_MaxinumSubarray/Solution.java) |Easy|2017/11/19|
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19|
