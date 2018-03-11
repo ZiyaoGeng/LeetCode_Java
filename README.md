@@ -75,6 +75,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |49|[ Group Anagrams ](https://leetcode.com/problems/group-anagrams/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/049_Group%20Anagrams/Solution.java) |Medium|2018/3/4| |
 |50|[ Pow(x, n) ](https://leetcode.com/problems/powx-n/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/050_Pow(x%2C%20n)/Solution.java) |Easy|2018/1/6| |
 |53|[ Maximum Subarray ](https://leetcode.com/problems/maximum-subarray/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/053_MaxinumSubarray/Solution.java) |Easy|2017/11/19| |
+|||||
 |54|[ Spiral Matrix ](https://leetcode.com/problems/spiral-matrix/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/054_Spiral%20Matrix/Solution.java) |Medium|2018/3/6| Y |
 |59|[ Spiral Matrix II ](https://leetcode.com/problems/spiral-matrix-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/059_Spiral%20Matrix%20II/Solution.java) |Medium|2018/3/11| N |
 |||||
