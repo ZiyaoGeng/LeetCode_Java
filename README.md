@@ -82,7 +82,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |55|[ Jump Game ](https://leetcode.com/problems/jump-game/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/055_Jump%20Game/Solution.java) |Medium|2018/3/8| |
 |56|[ Merge Intervals ](https://leetcode.com/problems/merge-intervals/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/056_Merge%20Intervals/Solution.java) |Medium|2018/3/7| |
 |58|[ Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Easy|2017/11/19| |
-|60|[ Permutation Sequence ](https://leetcode.com/problems/permutation-sequence/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/058_Length%20of%20Last%20Word/Solution.java) |Medium|2018/3/12| Y |
+|60|[ Permutation Sequence ](https://leetcode.com/problems/permutation-sequence/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/060_Permutation%20Sequence/Solution.java) |Medium|2018/3/12| Y |
 |62|[ Unique Paths ](https://leetcode.com/problems/unique-paths/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/062_Unique%20Paths/Solution.java) |Medium|2018/3/10| N |
 |63|[ Unique PathsII ](https://leetcode.com/problems/unique-paths-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/063_Unique%20Paths%E2%85%A1/Solution.java) |Medium|2018/3/10| N |
 |66|[ Plus One ](https://leetcode.com/problems/plus-one/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/066_Plus%20One/Solution.java) |Easy|2017/11/19| |
