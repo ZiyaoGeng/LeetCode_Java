@@ -85,6 +85,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |60|[ Permutation Sequence ](https://leetcode.com/problems/permutation-sequence/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/060_Permutation%20Sequence/Solution.java) |Medium|2018/3/12| Y |
 |62|[ Unique Paths ](https://leetcode.com/problems/unique-paths/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/062_Unique%20Paths/Solution.java) |Medium|2018/3/10| N |
 |63|[ Unique PathsII ](https://leetcode.com/problems/unique-paths-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/063_Unique%20Paths%E2%85%A1/Solution.java) |Medium|2018/3/10| N |
+|64|[ Minimum Path Sum ](https://leetcode.com/problems/minimum-path-sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/063_Unique%20Paths%E2%85%A1/Solution.java) |Medium|2018/3/13| Y |
 |66|[ Plus One ](https://leetcode.com/problems/plus-one/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/066_Plus%20One/Solution.java) |Easy|2017/11/19| |
 |67|[ Add Binary ](https://leetcode.com/problems/add-binary/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/067_AddBinary/Solution.java) |Easy|2017/11/19| |
 |69|[ Sqrt(x) ](https://leetcode.com/problems/sqrtx/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/069_Sqrt(x)/Solution.java) |Easy|2017/11/19| |
