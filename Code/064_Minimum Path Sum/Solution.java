@@ -1,5 +1,6 @@
 /*
-DP �ݹ���ǵݹ�
+DP µÝ¹éÓë·ÇµÝ¹é
+
  */
 public class Solution {
 //    public int minPathSum(int[][] grid) {
