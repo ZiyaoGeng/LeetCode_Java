@@ -95,6 +95,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |88|[ Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/088_Merge%20Sorted%20Array/Solution.java) |Easy|2017/11/21| |
 |||||
 |094|[ Binary Tree Inorder Traversal ](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/094_Binary%20Tree%20Inorder%20Traversal/Solution.java) |Meium|2018/3/16| Y |
-|1444|[ Binary Tree Preorder Traversal ](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/144_Binary%20Tree%20Preorder%20Traversal/Solution.java) |Meium|2018/3/16| Y |
+|144|[ Binary Tree Preorder Traversal ](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/144_Binary%20Tree%20Preorder%20Traversal/Solution.java) |Meium|2018/3/16| Y |
+|144|[ Binary Tree Postorder Traversal ](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/144_Binary%20Tree%20Preorder%20Traversal/Solution.java) |Hard|2018/3/16| Y |
 |||||
 |100|[ Same Tree ](https://leetcode.com/problems/same-tree/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/100_Same%20Tree/Solution.java) |Easy|2017/11/22| |
