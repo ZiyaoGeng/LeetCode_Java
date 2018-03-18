@@ -99,4 +99,5 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |144|[ Binary Tree Preorder Traversal ](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/144_Binary%20Tree%20Preorder%20Traversal/Solution.java) |Meium|2018/3/16| Y |
 |145|[ Binary Tree Postorder Traversal ](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/145_Binary%20Tree%20Postorder%20Traversal/Solution.java) |Hard|2018/3/16| Y |
 |||||
+|096|[ Unique Binary Search Trees ](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/094_Binary%20Tree%20Inorder%20Traversal/Solution.java) |Meium|2018/3/18| N |
 |100|[ Same Tree ](https://leetcode.com/problems/same-tree/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/100_Same%20Tree/Solution.java) |Easy|2017/11/22| |
