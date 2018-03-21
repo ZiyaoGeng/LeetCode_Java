@@ -101,4 +101,4 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |||||
 |096|[ Unique Binary Search Trees ](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/096_Unique%20Binary%20Search%20Trees/Solution.java) |Meium|2018/3/18| N |
 |100|[ Same Tree ](https://leetcode.com/problems/same-tree/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/100_Same%20Tree/Solution.java) |Easy|2017/11/22| |
-|136|[ Same Tree ](https://leetcode.com/problems/single-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/100_Same%20Tree/Solution.java) |Easy|2018/3/21| |
+|136|[ Same Tree ](https://leetcode.com/problems/single-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/100_Same%20Tree/Solution.java) |Easy|2018/3/21| Y |
