@@ -1,35 +1,19 @@
-import java.util.ArrayList;
-import java.util.List;
 
-class TreeNode{
-    int val;
-    TreeNode left;
-    TreeNode right;
-    public TreeNode(int val){
-        this.val=val;
-        left=null;
-        right=null;
-    }
-}
+/*
+The essential process is:
+ to build a tree, we need to pick a root node,
+ then we need to know how many possible
+ left sub trees and right sub trees can be held under that node,
+ finally multiply them.
+ */
 public class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer>list=new ArrayList<>();
-        if(root==null)
-            return list;
-        inorder(root,list);
-        return list;
+    public int numTrees(int n) {
+            int [] dp = new int[n+1];
+            dp[0]= 1;
+            dp[1] = 1;
+            for(int level = 2; level <=n; level++)
+                for(int root = 1; root<=level; root++)
+                    dp[level] += dp[level-root]*dp[root-1];
+            return dp[n];
+        }
     }
-    public void inorder(TreeNode root,List<Integer>list){
-        if(root.left!=null)
-            inorder(root.left,list);
-        list.add(root.val);
-        if(root.right!=null)
-            inorder(root.right,list);
-    }
-    public static void main(String[]args){
-        TreeNode root=new TreeNode(1);
-        root.right=new TreeNode(2);
-        root.right.left=new TreeNode(3);
-        System.out.println(new Solution().inorderTraversal(root));
-    }
-}
