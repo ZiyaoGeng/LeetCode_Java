@@ -3,7 +3,7 @@ Update time:  2018-3-16 17:01
 
 I'm a college student
 
-I have solved **69  /   645** problems now
+I have solved **73  /   645** problems now
 
 If you have the better Solutions for the problems,Please tell me or fork my project,Thank you!
 
@@ -103,3 +103,5 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |100|[ Same Tree ](https://leetcode.com/problems/same-tree/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/100_Same%20Tree/Solution.java) |Easy|2017/11/22| |
 |136|[ Single Number ](https://leetcode.com/problems/single-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/136__Single%20Number/Solution.java) |Easy|2018/3/21| Y |
 |141|[  Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/141_Linked%20List%20Cycle/Solution.java) |Easy|2018/3/24| Y |
+|141|[  Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/141_Linked%20List%20Cycle/Solution.java) |Medium|2018/3/25| Y |
+
