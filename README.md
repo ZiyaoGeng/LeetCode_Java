@@ -95,7 +95,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |82|[ Remove Duplicates from Sorted List II ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/082_Remove%20Duplicates%20from%20Sorted%20List%20II/Solution.java) 
 |Medium|2018/4/3| N |
 |83|[ Remove Duplicates from Sorted List ](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/083._Remove%20Duplicates%20from%20Sorted%20List/Solution.java) |Easy|2017/11/20| |
-|86|[ MPartition List ](https://leetcode.com/problems/partition-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/088_Merge%20Sorted%20Array/Solution.java) |Medium|2018/4/4| Y |
+|86|[ MPartition List ](https://leetcode.com/problems/partition-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/086_Partition%20List/Solution.java) |Medium|2018/4/4| Y |
 |88|[ Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/088_Merge%20Sorted%20Array/Solution.java) |Easy|2017/11/21| |
 |||||
 |94|[ Binary Tree Inorder Traversal ](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/094_Binary%20Tree%20Inorder%20Traversal/Solution.java) |Meium|2018/3/16| Y |
