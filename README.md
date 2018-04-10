@@ -115,4 +115,5 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |136|[ Single Number ](https://leetcode.com/problems/single-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/136__Single%20Number/Solution.java) |Easy|2018/3/21| Y |
 |141|[  Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/141_Linked%20List%20Cycle/Solution.java) |Easy|2018/3/24| Y |
 |142|[  Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/tree/master/Code/142_Linked%20List%20Cycle%20II) |Medium|2018/3/25| Y |
+|141|[  Remove Linked List Elements ](https://leetcode.com/problems/remove-linked-list-elements/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/141_Linked%20List%20Cycle/Solution.java) |Easy|2018/4/10| Y |
 
