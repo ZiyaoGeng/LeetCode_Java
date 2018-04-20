@@ -1,9 +1,9 @@
 # :pencil2: Leetcode Solutions with Java
-Update time:  2018-3-26 12:59
+Update time:  2018-4-20 13:26
 
 I'm a college student
 
-I have solved **74  /   645** problems now
+I have solved **101  /   645** problems now
 
 If you have the better Solutions for the problems,Please tell me or fork my project,Thank you!
 
@@ -92,6 +92,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |69|[ Sqrt(x) ](https://leetcode.com/problems/sqrtx/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/069_Sqrt(x)/Solution.java) |Easy|2017/11/19| |
 |70|[ Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/070_Climbing%20Stairs/Solution.java) |Easy|2017/11/20| |
 |73|[ Set Matrix Zeroes ](https://leetcode.com/problems/climbing-stairs/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/073_Set%20Matrix%20Zeroes/Solution.java) |Medium|2018/4/19| Y |
+|74|[ Search a 2D Matrix ](https://leetcode.com/problems/search-a-2d-matrix/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/073_Set%20Matrix%20Zeroes/Solution.java) |Medium|2018/4/20| Y |
 |78|[ Subsets ](https://leetcode.com/problems/subsets/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/078_Subsets/Solution.java) |Medium|2018/4/18| Y |
 |79|[ Word Search ](https://leetcode.com/problems/word-search/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/079_Word%20Search/Solution.java) |Medium|2018/3/17| N |
 |82|[ Remove Duplicates from Sorted List II ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/082_Remove%20Duplicates%20from%20Sorted%20List%20II/Solution.java)|Medium|2018/4/3| N |
