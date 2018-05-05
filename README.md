@@ -130,8 +130,11 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |119|[ Pascal's Triangle II ](https://leetcode.com/problems/pascals-triangle-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/119_Pascal's%20Triangle%20II/Solution.java) |Easy|2018/4/25| Y |
 |121|[ Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/121_Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java) |Easy|2018/4/28| Y |
 |122|[ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java) |Easy|2018/5/2| N |
+|||||
 |136|[ Single Number ](https://leetcode.com/problems/single-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/136__Single%20Number/Solution.java) |Easy|2018/3/21| Y |
 |137|[ Single NumberII ](https://leetcode.com/problems/single-number-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/137_Single%20Number%20II/Solution.java) |Medium|2018/5/3| Y |
+|260|[ Single NumberIII ](https://leetcode.com/problems/single-number-iii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/137_Single%20Number%20II/Solution.java) |Medium|2018/5/5| Y |
+|||||
 |138|[ Copy List with Random Pointer ](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/138_Copy%20List%20with%20Random%20Pointer/Solution.java) |Medium|2018/4/15| Y |
 |141|[  Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/141_Linked%20List%20Cycle/Solution.java) |Easy|2018/3/24| Y |
 |142|[  Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/tree/master/Code/142_Linked%20List%20Cycle%20II) |Medium|2018/3/25| Y |
