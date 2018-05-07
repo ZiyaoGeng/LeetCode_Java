@@ -64,7 +64,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 ||||
 |39|[  Combination Sum ](https://leetcode.com/problems/combination-sum/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/039_Combination%20Sum/Solution.java)|Medium|2018/1/5| |
 |40|[  Combination Sum II ](https://leetcode.com/problems/combination-sum-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/040_Combination%20Sum%20II/Solution.java)|Medium|2018/1/8| |
-|42|[  Trapping Rain Water ](https://leetcode.com/problems/trapping-rain-water/solution/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/043_Multiply%20Strings/Solution.java)|Hard|2018/5/7| N |
+|42|[  Trapping Rain Water ](https://leetcode.com/problems/trapping-rain-water/solution/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/042_Trapping%20Rain%20Water/Solution.java)|Hard|2018/5/7| N |
 ||||
 |43|[  Multiply Strings ](https://leetcode.com/problems/multiply-strings/discuss/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/043_Multiply%20Strings/Solution.java)|Medium|2018/1/21| |
 |415|[  Add Strings ](https://leetcode.com/problems/add-strings/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/415_Add%20Strings/Solution.java)|Easy|2018/1/21| |
