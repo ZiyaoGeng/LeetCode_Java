@@ -134,6 +134,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |120|[ Triangle ](https://leetcode.com/problems/triangle/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/120_Triangle/Solution.java) |Medium|2018/5/8| N |
 |121|[ Best Time to Buy and Sell Stock ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/121_Best%20Time%20to%20Buy%20and%20Sell%20Stock/Solution.java) |Easy|2018/4/28| Y |
 |122|[ Best Time to Buy and Sell Stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java) |Easy|2018/5/2| N |
+|129|[ Sum Root to Leaf Numbers ](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/122_Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Solution.java) |Medium|2018/5/9| Y |
 |||||
 |136|[ Single Number ](https://leetcode.com/problems/single-number/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/136__Single%20Number/Solution.java) |Easy|2018/3/21| Y |
 |137|[ Single NumberII ](https://leetcode.com/problems/single-number-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/137_Single%20Number%20II/Solution.java) |Medium|2018/5/3| Y |
