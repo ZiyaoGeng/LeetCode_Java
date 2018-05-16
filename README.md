@@ -146,7 +146,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |260|[ Single NumberIII ](https://leetcode.com/problems/single-number-iii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/260_Single%20Number%20III/Solution.java) |Medium|2018/5/5| Y |
 |||||
 |138|[ Copy List with Random Pointer ](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/138_Copy%20List%20with%20Random%20Pointer/Solution.java) |Medium|2018/4/15| Y |
-|139|[ Word Break ](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/138_Copy%20List%20with%20Random%20Pointer/Solution.java) |Medium|2018/4/15| N |
+|139|[ Word Break ](https://leetcode.com/problems/word-break/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/139_Word%20Break/Solution.java) |Medium|2018/4/15| N |
 |141|[  Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/141_Linked%20List%20Cycle/Solution.java) |Easy|2018/3/24| Y |
 |142|[  Linked List Cycle II ](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/tree/master/Code/142_Linked%20List%20Cycle%20II) |Medium|2018/3/25| Y |
 |143|[  Reorder List ](https://leetcode.com/problems/reorder-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/143_Reorder%20List/Solution.java) |Medium|2018/4/12| Y |
