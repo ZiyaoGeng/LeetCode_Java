@@ -48,11 +48,4 @@ public class MyQueue {
             return true;
         return false;
     }
-    public static void main(String[]args){
-        MyQueue q=new MyQueue();
-        q.push(1);
-        q.pop();
-        q.push(2);
-        System.out.println(q.peek());
-    }
 }
