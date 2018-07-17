@@ -201,7 +201,7 @@ If you have the better Solutions for the problems,Please tell me or fork my proj
 |283|[ Move Zeroes ](https://leetcode.com/problems/move-zeroes/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/283_Move%20Zeroes/Solution.java) |Easy|2018/6/17| Y |
 |292|[ Nim Game ](https://leetcode.com/problems/nim-game/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/292_Nim%20Game/Solution.java) |Easy|2018/6/15| Y |
 |318|[ Maximum Product of Word Lengths ](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/318_Maximum%20Product%20of%20Word%20Lengths/Solution.java) |Medium|2018/6/20| N |
-|326|[ Power of Three ](https://leetcode.com/problems/power-of-three/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/328_Odd%20Even%20Linked%20List/Solution.java) |Easy|2018/7/17| Y |
+|326|[ Power of Three ](https://leetcode.com/problems/power-of-three/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/326_Power%20of%20Three/Solution.java) |Easy|2018/7/17| Y |
 |328|[ Odd Even Linked List ](https://leetcode.com/problems/odd-even-linked-list/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/328_Odd%20Even%20Linked%20List/Solution.java) |Medium|2018/4/15| Y |
 |342|[ Power of Four ](https://leetcode.com/problems/power-of-four/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/343_Integer%20Break/Solution.java) |Medium|2018/6/28| N |
 |343|[ Integer Break ](https://leetcode.com/problems/integer-break/description/)|[Java](https://github.com/BlackSpaceGZY/LeetCode/blob/master/Code/343_Integer%20Break/Solution.java) |Medium|2018/6/26| N |
